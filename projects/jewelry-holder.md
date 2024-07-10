@@ -11,6 +11,6 @@ labels:
 summary: "Designed to be hung on a wall, the holder is formed from lasercut metal sheets. Assembly of final product requires no machinery and can be folded by hand."
 ---
 
-<img class="img-fluid" src="../img/jewelry-holder/IMG_2718.jpg">
+<img class="img-fluid" src="../img/IMG_2718.jpg">
 
 This jewelry holder was made with coldrolled steel plates that was lasercut. The metal was also perforated to allow ease of bending. 
