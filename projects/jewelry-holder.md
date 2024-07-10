@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img//IMG_2718.jpg
 title: "Jewelry Holder"
 date: 2022-12-15
 published: true
