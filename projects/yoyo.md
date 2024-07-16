@@ -28,5 +28,5 @@ summary: "My team designed and manufactured 100 glow-in-the-dark yoyos. Design w
 </div>
 
 <div class="text-center p-4">
-  <img width="700px" src="../img/yoyolots.jpg" class="img-thumbnail" >
+  <img width="700px" src="../img/yoyoposter.png" class="img-thumbnail" >
 </div>
