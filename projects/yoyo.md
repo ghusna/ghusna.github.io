@@ -27,7 +27,7 @@ Final Design:
 </div>
 100 yoyos were manufactured. This means 200 yoyo halves press fit into a bearing.
 <div class="text-center p-4">
-  <img width="700px" src="../img/yoyolots.JPG" class="img-thumbnail" >
+  <img width="700px" src="../img/yoyolots.jpg" class="img-thumbnail" >
 </div>
 
 <div class="text-center p-4">
