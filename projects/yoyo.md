@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
+title: "Yoyo"
 date: 2023
-published: True
+published: true
 labels:
   - Manufacturing
   - Thermoforming
   - Injection Molding
   - 
-summary: "My team designed and manufactured 100 yoyos. Design was planned and reworked each yoyo batch. "
+summary: "My team designed and manufactured 100 glow-in-the-dark yoyos. Design was planned and reworked each yoyo batch. Final design included three injection molded pieces and one thermoformed piece press fit onto a bearing."
 ---
 
 <div class="text-center p-4">
