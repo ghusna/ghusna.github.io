@@ -13,7 +13,8 @@ labels:
   - 
 summary: "My team developed a tow rope for beginner water skiers."
 ---
+<img class="img-fluid" src="../img/Wakebuddyproductbrochure.png">
 
 <div class="text-center p-4">
-  <img width="1200px" src="../img/micromouse/Wakebuddyproductbrochure.png" class="img-thumbnail" >
+  <img width="1200px" src="../img/Wakebuddyproductbrochure.png" class="img-thumbnail" >
 </div>
