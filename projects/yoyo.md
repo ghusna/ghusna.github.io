@@ -14,8 +14,19 @@ summary: "My team designed and manufactured 100 glow-in-the-dark yoyos. Design w
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/yoyocad.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/molds.jpg" class="img-thumbnail" >
 </div>
 
+<div class="text-center p-4">
+  <img width="200px" src="../img/yoyofront.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/yoyoangled.jpg" class="img-thumbnail" >
+</div>
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/yoyolots.jpg" class="img-thumbnail" >
+</div>
+
+<div class="text-center p-4">
+  <img width="700px" src="../img/yoyolots.jpg" class="img-thumbnail" >
+</div>
