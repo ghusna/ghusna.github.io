@@ -8,6 +8,8 @@ published: True
 labels:
   - Housing Design
   - Arduino
+  - CAD
+  - Manufacturing
   - 
 summary: "My team developed a tow rope for beginner water skiers."
 ---
