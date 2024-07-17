@@ -14,6 +14,8 @@ summary: "My team designed and manufactured 100 glow-in-the-dark yoyos. Design w
 ---
 # Overview
 
+<div class="float-end p-4">
+  <img width="600px" src="../img/yoyo/top.png" class="img-thumbnail" >
 
   My team designed and manufactured 100 glow-in-the-dark yoyos for MIT 2.008: Design and Manufacturing II. Design was planned and reworked each yoyo batch. Final design included three injection molded pieces and one thermoformed piece press fit onto a bearing. Inspired by space and planetary systems, it was important to highlight glow in the dark and rotation aspects. As seen in the video, the middle centerpiece rotates indepedently of the whole yoyo. The yoyos were manufactured across the three months of the semester. My main contributions were the design and manufacturing of both the injeciton molding molds and the thermoforming molds. Moreover, manufacturing of all yoyo pieces was split between the *five* team members. As a result of this projects, several skills were gained:
 - CNC Mill use
@@ -21,7 +23,7 @@ summary: "My team designed and manufactured 100 glow-in-the-dark yoyos. Design w
 - Thermoforming familiarity
 - Mass manufacturing data analysis
 - Project and timeline management
-
+</div>
   
 <div class="ratio ratio-16x9">
   <iframe src="https://youtube.com/shorts/p1FZ1mB4r0g" 
