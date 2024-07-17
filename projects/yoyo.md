@@ -13,8 +13,9 @@ labels:
 summary: "My team designed and manufactured 100 glow-in-the-dark yoyos. Design was planned and reworked each yoyo batch. Final design included three injection molded pieces and one thermoformed piece press fit onto a bearing."
 ---
 # Overview
-My team designed and manufactured 100 glow-in-the-dark yoyos. Design was planned and reworked each yoyo batch. Final design included three injection molded pieces and one thermoformed piece press fit onto a bearing. 
+
 <div class="text-center float-end p-4">
+  My team designed and manufactured 100 glow-in-the-dark yoyos. Design was planned and reworked each yoyo batch. Final design included three injection molded pieces and one thermoformed piece press fit onto a bearing. 
   <img width="700px" src="../img/yoyofront.JPG" class="img-thumbnail" >
 </div>
 
