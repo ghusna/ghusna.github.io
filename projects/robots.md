@@ -17,7 +17,7 @@ summary: "A bunch of robots I made for random tasks. Manufacturing, coding, and 
 # Overview
 These are random robots i made through undergrad for either academic or recreational reasons.
 
-'''
+
 <div class="text-center p-4">
   <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
