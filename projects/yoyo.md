@@ -60,7 +60,11 @@ a HASS CNC Mill was used to mill out the molds from 4"x4"x1.5" aluminum blocks. 
 A simple mold was made that is similar to a hockey puck but with holes for creating vaccum suction. The mold was built with 3D printing SLA resin. 
 [comment]: TF mold pic
 
-## 3. Final Design:
+## 2.3 Data Analysis
+As to fix up clearences and assure quality press fit, I was responsible for measuring certain dimensions after injection molded pieces came out. A summary of the fit between the top and bottom pieces is displayed here:
+[comment]: hurdle pic
+
+# 3. Final Design
 This was our final result!
 <div class="text-center p-4">
   <img width="700px" src="../img/yoyofront.JPG" class="img-thumbnail" >
