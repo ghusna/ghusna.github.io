@@ -29,7 +29,7 @@ summary: "My team designed and manufactured 100 glow-in-the-dark yoyos. Design w
           allowfullscreen>
   </iframe>
 </div>
-if video doesn't play, try this link (https://youtube.com/shorts/p1FZ1mB4r0g)
+if video doesn't play, try this link [Yoyo Slow Motion Shot](https://youtube.com/shorts/p1FZ1mB4r0g) (https://youtube.com/shorts/p1FZ1mB4r0g)
 
 
 
