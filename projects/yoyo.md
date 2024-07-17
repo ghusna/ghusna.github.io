@@ -95,7 +95,7 @@ As to fix up clearences and assure quality press fit, I was responsible for meas
 </div>
 
 <div class="text-center p-4">
-  <img width="600px" src="../img/yoyo/shoulderbolt.png" class="img-thumbnail" >
+  <img width="600px" src="../img/yoyo/cadcut.png" class="img-thumbnail" >
 </div>
 
 # 3. Final Design
