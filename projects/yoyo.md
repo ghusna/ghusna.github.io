@@ -18,16 +18,29 @@ My team designed and manufactured 100 glow-in-the-dark yoyos. Design was planned
   <img width="700px" src="../img/yoyofront.JPG" class="img-thumbnail" >
 </div>
 
-## Design
-The molds were CNC'd on a mill using aluminum. The CAD for the design is shown below. After, the molds were designed and reworked three times to account for clearance and manufacturing variation.
+# 1: Design
+The molds were CNC'd on a mill using aluminum. The CAD for the design is shown below. After, the molds were designed and reworked three times to account for clearance and manufacturing variation. The design is inspired by planetary system rotation. As such, the main aspects have to do with glow and rotation. The design is intended to:
+- Glow in the dark.
+- The center piece rotates independantly of the yoyo.
+
+## 1.1 CAD
+The CAD
+## 1.2 Bearing Design
+[comment]: add 2.008 bearing pic
+## 1.3 Molds
 <div class="text-center p-4">
   <img width="600px" src="../img/yoyocad.JPG" class="img-thumbnail" >
   <img width="600px" src="../img/molds.JPG" class="img-thumbnail" >
 </div>
 
+# 2: Manufacturing
+The main steps of manufacturing include 
+## 2.1: HASS CNC Mill
+for molds
+## 2.2: 
 
 
-## Final Design:
+## 3 Final Design:
 <div class="text-center p-4">
   <img width="700px" src="../img/yoyofront.JPG" class="img-thumbnail" >
   <img width="700px" src="../img/yoyoangled.JPG" class="img-thumbnail" >
