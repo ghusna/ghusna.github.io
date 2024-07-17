@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/yoyofront.JPG
 title: "Yoyo"
 date: 2023
 published: true
