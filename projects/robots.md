@@ -24,9 +24,19 @@ These are random robots i made through undergrad for either academic or recreati
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-#X.Mini Me
-##X.1: Overview
-##X.2:Manufacturing
-##X.3:Code
+# X. Planetary Gear Robot
+## X.1: Overview
+## X.2: Manufacturing
+## X.3: Code
 
-#
+# X.Mini Me
+## X.1: Overview
+## X.2: Manufacturing
+## X.3: Code
+
+# X. Line-following Robot
+## X.1: Overview
+## X.2: Manufacturing
+## X.3: Code
+
+
