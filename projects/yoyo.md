@@ -6,10 +6,10 @@ title: "Yoyo"
 date: 2023
 published: true
 labels:
-  - Manufacturing
+  - Mass Manufacturing
   - Thermoforming
   - Injection Molding
-  - 
+  - Project Management
 summary: "My team designed and manufactured 100 glow-in-the-dark yoyos. Design was planned and reworked each yoyo batch. Final design included three injection molded pieces and one thermoformed piece press fit onto a bearing."
 ---
 # Overview
