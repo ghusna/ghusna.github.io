@@ -30,7 +30,7 @@ if video doesn't play, try this link [Yoyo Slow Motion Shot](https://youtube.com
 <br />
 <br />
 
-<div class="ratio ratio-16x9">
+<div class="ratio">
   <iframe src="https://youtube.com/shorts/p1FZ1mB4r0g" 
           title="Yoyo Slow Motion Video" 
           allowfullscreen>
