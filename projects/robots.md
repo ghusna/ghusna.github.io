@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/robots/IMG_2958.HEIC
 title: "Robots"
 date: 2020-2023
 published: true
