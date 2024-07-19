@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/robots/IMG_2958.HEIC
+image: img/robots/image.PNG
 title: "Robots"
 date: 2020-2023
 published: true
