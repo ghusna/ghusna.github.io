@@ -115,3 +115,10 @@ As part of the class, we designed a poster to describe and showoff our product.
 <div class="text-center p-4">
   <img width="1000px" src="../img/yoyoposter.png" class="img-thumbnail" >
 </div>
+
+<div class="ratio ratio-4x3 my-4">
+  <iframe src="https://www.youtube.com/embed/NrLFIpm0wps" 
+          title="Overview of Hackystat" 
+          allowfullscreen>
+  </iframe>
+</div>
