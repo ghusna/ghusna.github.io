@@ -5,6 +5,7 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
+  --tf-purple1: #a9a2d1;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--bs-blue);
   --tf-pill-bg: var(--bs-gray);
@@ -12,7 +13,7 @@
   --tf-icon-hover: var(--bs-gray-500);
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--bs-gray-200);
-  --tf-projects-bg-color: var(--bs-gray-100);
+  --tf-projects-bg-color: var(--tf-purple1);
 }
 
 /* Format social media icons */
