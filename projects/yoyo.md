@@ -117,7 +117,7 @@ As part of the class, we designed a poster to describe and showoff our product.
 </div>
 
 <div class="ratio ratio-4x3 my-4">
-  <iframe src="https://www.youtube.com/embed/NrLFIpm0wps" 
+  <iframe src="https://youtube.com/shorts/p1FZ1mB4r0g" 
           title="Overview of Hackystat" 
           allowfullscreen>
   </iframe>
