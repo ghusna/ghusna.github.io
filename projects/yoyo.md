@@ -30,12 +30,14 @@ if video doesn't play, try this link [Yoyo Slow Motion Shot](https://youtube.com
 <br />
 <br />
 
-<div class="ratio ratio-16x9">
-  <iframe src="https://youtube.com/shorts/p1FZ1mB4r0g" 
-          title="yoyoslomo" 
-          allowfullscreen>
-  </iframe>
-</div>
+
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/p1FZ1mB4r0g"
+title="Yoyo Slowmotion Shot"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+
 
 
 # 1. Design
@@ -116,9 +118,4 @@ As part of the class, we designed a poster to describe and showoff our product.
   <img width="1000px" src="../img/yoyoposter.png" class="img-thumbnail" >
 </div>
 
-<div class="ratio ratio-4x3 my-4">
-  <iframe src="https://youtube.com/shorts/p1FZ1mB4r0g" 
-          title="Overview of Hackystat" 
-          allowfullscreen>
-  </iframe>
-</div>
+
