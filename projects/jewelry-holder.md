@@ -7,8 +7,8 @@ date: 2022-12-15
 published: true
 labels:
   - Laser-cutting
-  - CAD
-  - Rhino
+  - CAD (Rhino)
+  - Iterative Design
 summary: "Designed to be hung on a wall, the holder is formed from lasercut metal sheets. Assembly of final product requires no machinery and can be folded by hand."
 ---
 
