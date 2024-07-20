@@ -18,6 +18,10 @@
   --tf-projects-bg-color: var(--tf-purple1);
 }
 
+h1,h2,h3,h4 {
+  color: var(--tf-purple2);
+}
+
 /* Format social media icons */
 .tf-social {
   display: inline-block;
@@ -50,4 +54,10 @@ a {
 .card-footer {
   background-color: var(--tf-purple3);
   border-top: none;
+}
+
+.rounded-circle {
+  border-color: var(--tf-purple3);
+  border-style: solid;
+  border-width: 1px;
 }
