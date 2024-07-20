@@ -40,4 +40,4 @@ Works well, but looks boring. Adding the frame in the next iterations.
 ## 4. Final Result
 <img class="img-fluid" src="../img/IMG_2718.jpg">
 In use:
-<img class="img-fluid" src="../img/IMG_2700.jpg">
+<img class="img-fluid" src="../img/jewels/IMG_2700.jpg">
