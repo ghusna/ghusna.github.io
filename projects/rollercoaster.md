@@ -6,11 +6,12 @@ title: "EC REX Roller Coaster"
 date: 2022-02 - 2022-08
 published: true
 labels:
-  - Mass Manufacturing
-  - Thermoforming
-  - Injection Molding
   - Project Management
-summary: "My team designed and manufactured 100 glow-in-the-dark yoyos. Design was planned and reworked each yoyo batch. Final design included three injection molded pieces and one thermoformed piece press fit onto a bearing."
+  - Organization
+  - Wood working
+  - Money Management
+summary: "Led the building of a 3-story-high & 150-ft-long roller-coaster, fort, climbing wall, and small rides for MIT annual REX. Recruited students (8 build leads and 50 volunteers) to design and build. Co-managed finances ($30,000), managed building materials, and communicated with administrative bodies.
+"
 ---
 # Overview
 
@@ -58,16 +59,10 @@ The overall design includes four pieces:
 - Centerpiece
 - Thermoformed cover
 
-<div class="text-center p-4">
-  <img width="600px" src="../img/yoyocad.JPG" class="img-thumbnail" >
-  <img width="600px" src="../img/yoyo/cadcenter.png" class="img-thumbnail" >
-  <img width="600px" src="../img/yoyo/cadbottom.png" class="img-thumbnail" >
-  <img width="600px" src="../img/yoyo/cadtop.png" class="img-thumbnail" >
-  <img width="600px" src="../img/yoyo/cadcenter.png" class="img-thumbnail" >
-</div>
 
 ## 1.2 Shoulderbolt Design 
 These are the particulars of how the shoulter bolt is insertion molded onto the bottom piece, allowing two yoyo halves to be joined together with the threading in the bolt.
+
 <div class="text-center p-4">
   <img width="600px" src="../img/yoyo/shoulderbolt.png" class="img-thumbnail" >
 </div>
@@ -90,31 +85,8 @@ A simple mold was made that is similar to a hockey puck but with holes for creat
 
 
 ## 2.3 Data Analysis
-As to fix up clearences and assure quality press fit, I was responsible for measuring certain dimensions after injection molded pieces came out. A summary of the fit between the top and bottom pieces is displayed here:
-
-<div class="text-center p-4">
-  <img width="600px" src="../img/yoyo/challenge.png" class="img-thumbnail" >
-</div>
-
-<div class="text-center p-4">
-  <img width="600px" src="../img/yoyo/cadcut.png" class="img-thumbnail" >
-</div>
 
 # 3. Final Design
-This was our final result!
-<div class="text-center p-4">
-  <img width="700px" src="../img/yoyofront.JPG" class="img-thumbnail" >
-  <img width="700px" src="../img/yoyoangled.JPG" class="img-thumbnail" >
-</div>
-100 yoyos were manufactured. This means 200 yoyo halves press fit into a bearing.
 
-<div class="text-center p-4">
-  <img width="700px" src="../img/yoyolots.jpg" class="img-thumbnail" >
-</div>
 
-# 4. Final Poster
-As part of the class, we designed a poster to describe and showoff our product.
-<div class="text-center p-4">
-  <img width="1000px" src="../img/yoyoposter.png" class="img-thumbnail" >
-</div>
 
