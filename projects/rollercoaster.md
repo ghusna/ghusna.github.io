@@ -19,7 +19,7 @@ summary: "Led the building of a 3-story-high & 150-ft-long roller-coaster, fort,
 - Recruited students (8 build leads and 50 volunteers) to design and build.
 - Co-managed finances ($30,000), managed building materials, and communicated with administrative bodies.
 <div class="rounded float-end p-4">
-    <img width="600px" src="../img/yoyo/top.pg" class="img-thumbnail" >
+    <img width="600px" src="../img/rex/coaster.png" class="img-thumbnail" >
 </div>
 
 # 1. Rides
