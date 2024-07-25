@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/yoyofront.JPG
+image: img/rex/coaster.png
 title: "EC REX Roller Coaster"
 date: 2022-02 - 2022-08
 published: true
