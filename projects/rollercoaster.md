@@ -14,7 +14,7 @@ summary: "Led the building of a 3-story-high & 150-ft-long roller-coaster, fort,
 "
 ---
 # Overview and role
-
+## What is REX?
 - Led the building of a 3-story-high & 150-ft-long roller-coaster, fort, climbing wall, and small rides for MIT annual REX.
 - Recruited students (8 build leads and 50 volunteers) to design and build.
 - Co-managed finances ($30,000), managed building materials, and communicated with administrative bodies.
@@ -33,6 +33,8 @@ summary: "Led the building of a 3-story-high & 150-ft-long roller-coaster, fort,
 # 2. Roller Coaster Design Change
 
 # 3. Logistical Challenges
-# 4. 
+## HRS, Insurance, and professional project feedback
+# Lumber and Money Management
+# Final Party!
 we got featured on mit news!
 https://news.mit.edu/2022/featured-video-building-roller-coaster-0926
